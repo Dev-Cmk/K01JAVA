@@ -2,7 +2,7 @@ package quiz_game;
 
 import java.util.Scanner;
 
-public class Selection_Sort {
+public class Selection_Sort_min {
 
 	int arr[] = new int[10];
 
@@ -90,7 +90,7 @@ public class Selection_Sort {
 	}
 
 	public static void main(String[] args) {
-		Selection_Sort aa = new Selection_Sort();
+		Selection_Sort_min aa = new Selection_Sort_min();
 		aa.select_sort_Start();
 	}
 }

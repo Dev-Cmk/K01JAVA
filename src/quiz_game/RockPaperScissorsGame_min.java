@@ -3,7 +3,7 @@ package quiz_game;
 import java.util.Random;
 import java.util.Scanner;
 
-public class RockPaperScissorsGame_Min {
+public class RockPaperScissorsGame_min {
 
 	public static void rpsGameStart() {
 		

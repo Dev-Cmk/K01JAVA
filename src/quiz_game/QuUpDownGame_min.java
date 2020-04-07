@@ -14,7 +14,7 @@ import java.util.Scanner;
 8. 무한루프에 빠지게 된다면 scan.nextLine()을 활용하여 버퍼에 남아있는 Enter키를 제거해주도록 하자.
 
  */
-public class QuUpDownGame {
+public class QuUpDownGame_min {
 	
 	private static int comNum; //임의의 컴퓨터 숫자 저장을 위한 변수
 	private static int useNum; //사용자의 입력값

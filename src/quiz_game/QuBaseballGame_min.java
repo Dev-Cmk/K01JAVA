@@ -19,7 +19,7 @@ package quiz_game;
  */
 import java.util.Scanner;
 
-public class QuBaseballGame {
+public class QuBaseballGame_min {
 
 	private static int[] com = new int[3]; //컴퓨터 수 저장 배열
 	private static int[] user = new int[3]; //사용자입력값 저장 배열
