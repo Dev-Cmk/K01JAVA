@@ -157,7 +157,7 @@ public class E03AnonymousClass {
 		};
 		ac.abstractMethod();
 		
-		//인처페이스를 구현한 익명클래스
+		//인터페이스를 구현한 익명클래스
 		InterFace in = new InterFace() {
 			int interVar = 100;
 			@Override
