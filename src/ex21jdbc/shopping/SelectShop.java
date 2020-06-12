@@ -32,7 +32,8 @@ public class SelectShop extends IConnectImpl {
 				String p_code = rs.getString("p_code");
 				String regidate = rs.getString("format1");
 				
-				System.out.printf("%s %s %s %s\n",
+				System.out.println("No 상품명 상품가격 상품등록날짜 제품코드");
+				System.out.printf("%s %s %s %s %s\n",
 						g_idx, goods_name, goods_price, regidate, p_code);
 				
 				
